@@ -1,6 +1,4 @@
-Here's the translation into English:
 
----
 
 A class containing 11 functions helps you to catch events occurring with an order.
 In EA mq5, you use it as follows:
