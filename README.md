@@ -12,7 +12,7 @@ void OnTradeTransaction(const MqlTradeTransaction &trans,
                         const MqlTradeResult &result)
   {
    ETTradeTransaction * etTraderTransaction = new ETTradeTransaction();
-   etTraderTransaction).OnTradeTransaction(trans, request, result);
+   etTraderTransaction.OnTradeTransaction(trans, request, result);
   }
 //+------------------------------------------------------------------+
 ```
