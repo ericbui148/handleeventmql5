@@ -22,6 +22,8 @@ void OnTradeTransaction(const MqlTradeTransaction &trans,
 ---
 
 If you need further assistance or any modifications, feel free to let me know!
+```
 Email: bthiep148@gmail.com
 Tele: @ericb148
 Linkedin: https://www.linkedin.com/in/hiep-eric-bui-26704030/
+```
